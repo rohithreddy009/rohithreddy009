@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently **an undergrad**
 
-- 📫 How to reach me **yrohithreddy12@gmail.com**
+- 📫 You can reach me at **yrohithreddy12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
