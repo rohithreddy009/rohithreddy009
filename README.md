@@ -1,6 +1,4 @@
-<a href="https://rishavchanda.io" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="MasterHead" width="1000" height="280">
-</a>
+
 
 <h1 align="center">Hi 👋, I'm Rohith</h1>
 <h3 align="center">fullstack developer</h3>
