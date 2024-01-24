@@ -4,7 +4,7 @@
 
 <!-- Short Introduction --->
 <h2 align="left">Hey, I'm Rohith<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
-
+i write code
 
 <!-- Socials Links -->
 <h2 align="left">Connect with me🤝</h2>
