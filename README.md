@@ -15,7 +15,7 @@ i write code
   <a href="https://twitter.com/rohithtwt" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
-  <a href="https://rohithreddy.netlify.app" target="_blank">
+  <a href="https://rohithreddy.site" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a>
 <!--   <a href="https://linktr.ee/" target="_blank">
