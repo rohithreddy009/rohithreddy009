@@ -1,4 +1,4 @@
-<!-- Background Banner -->
+
 
 
 <!-- Short Introduction --->
