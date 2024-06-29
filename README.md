@@ -5,45 +5,12 @@
 <h2 align="left">Hey, I'm Rohith<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
 i write code
 
-<!-- Socials Links -->
-<h2 align="left">Connect with me🤝</h2>
-<div align="left">
-  <a href="https://linkedin.com/in/yrohithreddy/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/rohithtwt" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://rohithreddy.site" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
-  </a>
-<!--   <a href="https://linktr.ee/" target="_blank">
-    <img alt="Linktree" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/>
-  </a> -->
-  <a href="mailto:yrohithreddy12@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
-<!-- About Me -->
-<h2 align="left">About me👨‍💻</h2>
-
-
-
-
-
-
-
-
-
 <!-- Skills Section -->
 <h2 align="left">Skills🚀</h2>
 
 <!-- Languages -->
 #### 🔥Languages:
 <div>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />	
   <img alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>	
@@ -87,7 +54,7 @@ i write code
 </div>
 
 <!-- Hosting/SaaS -->
-#### ☁️ Hosting/SaaS:
+#### ☁️ Hosting:
 <div>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
