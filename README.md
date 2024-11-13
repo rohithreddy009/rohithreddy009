@@ -3,7 +3,7 @@
 
 <!-- Short Introduction --->
 <h2 align="left">Hey, I'm Rohith<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
-i write code
+i code
 
 <!-- Skills Section -->
 <h2 align="left">Skills🚀</h2>
